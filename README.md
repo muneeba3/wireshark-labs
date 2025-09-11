@@ -53,6 +53,19 @@ The goal is to demonstrate practical knowledge of **network protocols, cybersecu
 - `README.md`
 
 ---
+---
+### 🔹 [Lab 5 – ARP and ICMP Analysis](Lab5-ARP-ICMP-Analysis/README.md)
+- Capture and analyze ARP requests and replies mapping your local network
+- ICMP echo requests/replies confirming connectivity
+
+
+## Files
+- `arp-icmp-capture.pcapng`
+- `SS5.png`
+- `README.md`
+
+---
+
 
 ## 🛠 Tools Used
 - **Wireshark** – Packet capturing and protocol analysis  
@@ -70,7 +83,6 @@ It showcases my ability to:
 ---
 
 ## 🚀 Next Steps
-- 📡 Lab 5 – ARP & ICMP Analysis  
 - 🔎 Lab 6 – Suspicious Traffic Detection (Malicious packets / Port scan)  
 
 ---
