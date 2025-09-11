@@ -43,6 +43,16 @@ The goal is to demonstrate practical knowledge of **network protocols, cybersecu
 - `SS3.png`
 
 ---
+### 🔹 [Lab 4 – HTTP request reponse Lab](Lab4-HTTP-Request-Response-Analysis/README.md)
+- Capture and analyze HTTP requests and responses to understand web communication and headers.
+- Findings are GET Request,HTTP Response, HTTP Response, Cookies / Headers,
+
+##  Files
+- `http-capture-example.pcapng`
+- `SS4.png`
+- `README.md`
+
+---
 
 ## 🛠 Tools Used
 - **Wireshark** – Packet capturing and protocol analysis  
@@ -60,7 +70,7 @@ It showcases my ability to:
 ---
 
 ## 🚀 Next Steps
-- 🌐 Lab 4 – HTTP Request/Response Analysis  
+- 
 - 📡 Lab 5 – ARP & ICMP Analysis  
 - 🔎 Lab 6 – Suspicious Traffic Detection (Malicious packets / Port scan)  
 
