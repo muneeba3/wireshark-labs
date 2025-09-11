@@ -70,7 +70,6 @@ It showcases my ability to:
 ---
 
 ## 🚀 Next Steps
-- 
 - 📡 Lab 5 – ARP & ICMP Analysis  
 - 🔎 Lab 6 – Suspicious Traffic Detection (Malicious packets / Port scan)  
 
